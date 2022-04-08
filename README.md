@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhumika247
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Java, Python and SQL
+- 🌱 Currently learning ReactJS, Python and SQL
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me : email me - sashra02@nyit.edu
 
