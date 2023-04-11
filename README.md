@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhumika247
-- 👀 I’m interested in Data Analysis
-- 🌱 Currently learning Data Mining , Machine Learning and GIS
-- 💞️ I’m looking to collaborate on App development
+- 👀 I’m curious about Data Analytics
+- 🌱 Currently learning in depth about Machine Learning,CV and GPT-4
+- 💞️ Looking forward to collaborating on exciting Analytical projects and app development.
 - 📫 To reach me please email here : sashra02@nyit.edu
 
 <!---
