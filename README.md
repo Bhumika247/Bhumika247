@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhumika247
+- 👋 Hi, I’m Bhumika.
 - 👀 I’m curious about Data Analytics
 - 🌱 Currently learning in depth about Machine Learning,CV and GPT-4
 - 💞️ Looking forward to collaborating on exciting Analytical projects and app development.
